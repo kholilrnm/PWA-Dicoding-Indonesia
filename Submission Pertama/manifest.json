@@ -1,0 +1,21 @@
+{
+  "name": "My First PWA Toko E-Commerce Sederhana",
+  "short_name": "My PWA - Kholil",
+  "description": "Aplikasi PWA pertama saya Toko E-Commerce Sederhana",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#00897B",
+  "theme_color": "#00897B",
+  "icons": [
+    {
+      "src": "images/logo_icon_splash_256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "images/logo_icon_splash_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

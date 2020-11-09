@@ -1,0 +1,22 @@
+{
+  "name": "first-pwa",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">   <a href=\"http://materializecss.com/\">     <img src=\"http://materializecss.com/res/materialize.svg\" width=\"150\">   </a> </p>",
+  "main": "service-worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kholilul Rachman NM",
+  "license": "ISC",
+  "dependencies": {
+    "@mdi/font": "^5.8.55",
+    "material-design-icons": "^3.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.12.1",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.1",
+    "prettier": "2.1.2"
+  }
+}

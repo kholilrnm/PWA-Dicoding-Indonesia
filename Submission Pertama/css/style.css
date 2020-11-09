@@ -1,0 +1,169 @@
+.mdi::before {
+  font-size: 24px;
+  line-height: 14px;
+}
+.btn .mdi::before {
+  position: relative;
+  top: 4px;
+}
+.btn-xs .mdi::before {
+  font-size: 18px;
+  top: 3px;
+}
+.btn-sm .mdi::before {
+  font-size: 18px;
+  top: 3px;
+}
+.dropdown-menu .mdi {
+  width: 18px;
+}
+.dropdown-menu .mdi::before {
+  position: relative;
+  top: 4px;
+  left: -8px;
+}
+.nav .mdi::before {
+  position: relative;
+  top: 4px;
+}
+.navbar .navbar-toggle .mdi::before {
+  position: relative;
+  top: 4px;
+  color: #fff;
+}
+.breadcrumb .mdi::before {
+  position: relative;
+  top: 4px;
+}
+.breadcrumb a:hover {
+  text-decoration: none;
+}
+.breadcrumb a:hover span {
+  text-decoration: underline;
+}
+.alert .mdi::before {
+  position: relative;
+  top: 4px;
+  margin-right: 2px;
+}
+.input-group-addon .mdi::before {
+  position: relative;
+  top: 3px;
+}
+.navbar-brand .mdi::before {
+  position: relative;
+  top: 2px;
+  margin-right: 2px;
+}
+.list-group-item .mdi::before {
+  position: relative;
+  top: 3px;
+  left: -3px;
+}
+.mr-top-20 {
+  margin-top: 20px;
+}
+.container-center {
+  text-align: center;
+}
+#centers {
+  justify-content: center;
+}
+#f-btm {
+  color: white;
+  margin-left: 30px;
+  justify-content: center;
+}
+.portfolio-card .mdl-card__title {
+  padding-bottom: 0;
+}
+img.article-image {
+  width: 100%;
+  height: auto;
+  background-color: white;
+  width: 150px;
+  height: 200px;
+  padding: 20px 0 0 0;
+}
+.mdl-card__media {
+  background-color: white !important;
+}
+.portfolio-max-width {
+  max-width: 900px;
+  margin: auto;
+}
+.img-width-200 {
+  width: 170px;
+  height: 250px;
+}
+.img-width-200-100 {
+  width: 300px;
+  height: 250px;
+}
+.img-width-150-90 {
+  width: 150px;
+  height: 90px;
+}
+.portfolio-copy {
+  max-width: 700px;
+}
+.no-padding {
+  padding: 0;
+}
+.no-left-padding {
+  padding-left: 0;
+}
+
+.no-bottom-padding {
+  padding-bottom: 0;
+}
+.padding-top {
+  padding: 10px 0 0;
+}
+.portfolio-share-btn {
+  position: relative;
+  float: right;
+  top: -4px;
+}
+.demo-card-event > .mdl-card__actions {
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  box-sizing: border-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+.portfolio-contact .mdl-textfield {
+  width: 100%;
+}
+.portfolio-contact form {
+  max-width: 550px;
+  margin: auto;
+}
+footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-size: cover;
+}
+
+@media only screen and (max-width: 600px) {
+  .s4 {
+    width: 100% !important;
+    margin-bottom: 20px;
+  }
+  .row {
+    margin-top: -20px;
+  }
+  .first {
+    margin-top: 20px;
+  }
+  .img-width-200-100 {
+    width: 160px;
+    height: 140px;
+  }
+  .py-5 {
+    margin-top: 15px;
+  }
+}
